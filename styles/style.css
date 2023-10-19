@@ -1,0 +1,27 @@
+
+body {
+    background-color: rgb(34, 33, 33);
+    margin: 0;
+    
+}
+.pagetop {
+    background-color: darkgreen;
+    padding: 20px;
+    margin: 0;
+
+}
+.mid {
+    background-color: black;
+    box-shadow: 3px, color(srgb rgb(87, 155, 73) green blue);
+    padding-bottom: 750px;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+h2 {
+    color: black;
+    
+}
+h1, p {
+    color: darkgreen;
+}
